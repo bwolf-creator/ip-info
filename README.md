@@ -17,6 +17,6 @@ A simple Python tool to display IP addresses from `ip a` command in a clean, rea
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/ip-info.git
+git clone https://github.com/bwolf-creator/ip-info.git
 cd ip-info
 python3 ip_info.py
